@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abinav/programming/MlFlow-intro/mlruns/1/7f4eb4e26ef0432b9bdeb8e5e56bd8e2/artifacts
+end_time: 1656833987969
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7f4eb4e26ef0432b9bdeb8e5e56bd8e2
+run_uuid: 7f4eb4e26ef0432b9bdeb8e5e56bd8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656833986695
+status: 3
+tags: []
+user_id: abinav
